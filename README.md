@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gregory Putman
 
 🔧 **Technical Product Owner & Architect & DevOps Leader** specializing in infrastructure automation, observability, and cloud-native transformation.  
-💡 **Former Intel engineer** with deep expertise in VMware, Terraform, Kubernetes, PowerShell, and CI/CD orchestration.  
+💡 **Former Intel engineer** with deep expertise in VMware, Hyper V, Terraform, Kubernetes, PowerShell, and CI/CD orchestration.  
 🚀 Passionate about building resilient, scalable, and secure systems that accelerate innovation — and reduce complexity.
 
 ---
